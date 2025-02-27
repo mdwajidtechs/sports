@@ -1,0 +1,75 @@
+@media (max-width:477px) {
+    .section-p1{
+        padding: 20px;
+    }
+    #header{
+        padding: 0 20px;
+        background-position: 55%;
+    }
+    h2
+    {
+        font-size:32px
+    }
+    h1{
+        font-size: 38px;
+    }
+
+    #hero{
+        padding:0 20px;
+        background-position: 100%;
+        
+    }
+    #hero .hero{
+        z-index: -1;
+        width: 10px;
+        
+    }
+    #freature{
+        justify-content: space-between;
+    }
+    #feature .fa-box{
+        width: 155px;
+        margin: 0 0 15px 0;
+    }
+    
+    #bannner {
+        height: 40vh;
+    }
+    #sm-banner .banner-box{
+        height: 40vh;
+    } 
+    #sm-banner .banner-box2{
+        margin-top:20px;
+    } 
+    #banner3 {
+        padding: 0 20px;
+    }
+    #newletter .form{
+        width: 100%;
+    }
+    #newslatter .form{
+        width: 100%;
+    } 
+    footer .copyright{
+
+        text-align: start;
+    }
+
+    #mobile i {
+        color: #1a1a1a;
+        font-size: 24px;
+        padding-left: 10px;
+    }
+    #product1 .pro {
+        width: 100%;
+        min-width: 300px;
+    }
+    
+}
+   
+@media (max-width:366px){
+    #hero {
+        padding: 0 20px;
+        background-position:66%;
+    }
+}
